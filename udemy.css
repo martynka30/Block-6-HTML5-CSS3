@@ -1,0 +1,79 @@
+body {
+    background-image: url(" https://s-media-cache-ak0.pinimg.com/originals/86/d5/77/86d57749ab72fc5b6b4c498ed150baad.jpg");
+    margin: 10;
+    padding: 10;
+}
+
+div {
+    position:relative;
+    margin-right:200px;
+    margin-left:200px;
+
+    background-color:powderblue;
+}
+
+p, h3 {
+    margin-left: 20px;
+    color:darkblue;
+}
+h1 {
+    text-shadow: 20px;
+    text-align:center;
+    text-decoration: underline  overline;
+
+    color:firebrick;
+
+}
+li, h4 {
+    color:mediumvioletred;
+    margin-left: 20px;
+}
+a  {
+    color:rebeccapurple;
+    text-decoration: none;
+    font-weight: bold;
+}
+#header {
+    position: relative;
+    width: 100%;
+    margin-right: 20%;
+    margin-left: 0px;
+    margin-top: 50px;
+    height: 80px;
+    background-color: whitesmoke
+
+}#name {
+    float:left;
+    margin-left: 30px;
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: black;
+}
+#email{
+    float:right;
+    margin-right: 30px;
+    padding-top: 20px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: blu;
+}
+
+#footer {
+    position: relative;
+    width: 100%;
+    margin-right: 20%;
+    margin-left: 0px;
+    height: 50px;
+    background-color: whitesmoke;
+    clear: both;
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: black;
+}
+
+#footer p {
+    position: relative;
+    padding-top: 15px;
+}
